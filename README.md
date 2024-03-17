@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 delete the .devcontainer file and create a .env file and put your OPEN_API_KEY in the application:
 
-'''bash
+```bash
 OPEN_API_KEY = "your open api key"
-'''
+```
 
 To run the app, simply execute the following command:
 
