@@ -15,7 +15,7 @@ def get_openai_api_key():
         return openai_api_key
     else:
         # Replace "your_api_key" with your actual OpenAI API key
-        return "your_api_key"
+        return "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"
 st.set_page_config(page_title="PDF AI")
 @st.cache_data
 def load_docs(files):
